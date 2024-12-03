@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "fruit_name": "Apple",
+      "benefit": "Rich in fiber and antioxidants.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "fruit_name": "Banana",
+      "benefit": "Great source of potassium and energy.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+      "color": "Yellow"
+    },
+    {
+      "id": 3,
+      "fruit_name": "Cherry",
+      "benefit": "Contains anti-inflammatory compounds.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+      "color": "Red"
+    },
+    {
+      "id": 4,
+      "fruit_name": "Orange",
+      "benefit": "Boosts immunity with vitamin C.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+      "color": "Orange"
+    },
+    {
+      "id": 5,
+      "fruit_name": "Grapes",
+      "benefit": "Good for heart health and rich in antioxidants.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg",
+      "color": "Green"
+    },
+    {
+      "id": 6,
+      "fruit_name": "Mango",
+      "benefit": "Rich in vitamins A and C.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+      "color": "Yellow"
+    },
+    {
+      "id": 9,
+      "fruit_name": "Pineapple",
+      "benefit": "Reduces inflammation and aids digestion.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg",
+      "color": "Brown"
+    },
+    {
+      "id": 10,
+      "fruit_name": "Strawberry",
+      "benefit": "Boosts skin health and contains antioxidants.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg",
+      "color": "Red"
+    }
+  ]
+  
